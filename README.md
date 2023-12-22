@@ -14,4 +14,4 @@ You can find me on:
 * [Twitter](https://twitter.org/Giuzzilla)
 * [LinkedIn](https://www.linkedin.com/in/giuliomazzanti/)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Giuzzilla)](https://github.com/Giuzzilla)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuzzilla&layout=compact)
