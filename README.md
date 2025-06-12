@@ -11,7 +11,7 @@ I code mostly in Python in my day-to-day work (e.g. Airflow, Flask, FastAPI, var
 I have a MSc in Computer Science at Georgia Tech, previously I did my BSc at Bocconi University ([BEMACS](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/bachelor+of+science/economics+management+and+computer+science)).
 
 You can find me on:
-* [Twitter](https://twitter.org/Giuzzilla)
+* [X](https://x.com/Giuzzilla)
 * [LinkedIn](https://www.linkedin.com/in/giuliomazzanti/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuzzilla&layout=compact)
