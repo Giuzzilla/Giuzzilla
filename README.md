@@ -4,7 +4,7 @@ I'm Giulio Mazzanti, a Forward Deployed Engineer at [Bauplan](https://bauplanlab
 
 My interests are at the intersection of Data-Intensive Web Applications, Cloud Architectures, AI Product Design & IoT.
 
-Previously, I lead the Engineering team at [scops.ai](https://scops.ai/), a startup working on a platform for advanced maintenance based on IoT data (CMMS / Asset Performance Management).
+Previously, I led the Engineering team at [scops.ai](https://scops.ai/), a startup working on a platform for advanced maintenance based on IoT data (CMMS / Asset Performance Management).
 
 I code mostly in Python in my day-to-day work (e.g. FastAPI, various ML tools). I enjoyed trying out functional languages like Scala. Recently I'm working on some small projects in Rust.
 
